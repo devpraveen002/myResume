@@ -1,0 +1,29 @@
+.info-social {
+     display: flex;
+}
+
+.info-head {
+     background-color: rgb(40, 54, 101);
+     color: white;
+     margin: -21px -8px 0px -8px;
+     font-family: "Roboto", sans-serif;
+     padding: 3px 50px 7px 78px;
+}
+
+h1 {
+     margin: 50px 0px 0px 0px;
+}
+
+h2 {
+     margin: 0;
+     font-weight: 400;
+     font-style: normal;
+     padding: 5px 0px;
+}
+
+h4 {
+     margin: 0;
+     font-weight: 400;
+     font-style: normal;
+     padding: 5px 20px 10px 0px;
+}

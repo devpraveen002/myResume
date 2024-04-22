@@ -1,0 +1,28 @@
+h2 {
+     font-family: "Rubik", sans-serif;
+     font-weight: 600;
+     color: rgb(82, 68, 71);
+     margin-bottom: 0;
+}
+
+h3 {
+     color: rgb(82, 68, 71);
+     font-family: "Roboto", sans-serif;
+     font-weight: 500;
+}
+
+p {
+     font-family: "Roboto", sans-serif;
+     font-weight: 300;
+}
+
+.proj-hr1 {
+     margin: 0;
+     border: 2px solid;
+     color: rgb(82, 68, 71);
+}
+
+.proj-hr2 {
+     border: 1px dashed rgb(197, 197, 197);
+     border-radius: 10px;
+}
