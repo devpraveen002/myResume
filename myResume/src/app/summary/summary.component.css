@@ -1,0 +1,15 @@
+h2 {
+     margin-bottom: 0;
+     font-family: "Rubik", sans-serif;
+     font-weight: 600;
+     color: rgb(82,68,71);
+}
+p{
+     font-family: "Roboto", sans-serif;
+     font-weight: 300;
+}
+.sum-hr{
+     margin: 0;
+     border: 2px solid;
+     color: rgb(82,68,71);
+}
