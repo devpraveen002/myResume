@@ -2,6 +2,9 @@
 body {
      font-family: "Roboto" "Rubik" sans-serif;
 }
+.container{
+     padding: 30px;
+}
 .grid-container{
      display: grid;
      grid-template-columns: auto auto;
@@ -30,6 +33,8 @@ h4 {
 p {
      font-family: "Roboto", sans-serif;
      font-weight: 300;
+     line-height: 21px;
+     margin: 10px 0px 19px 0px;
 }
 
 hr {
@@ -52,8 +57,18 @@ hr {
      padding: 0px 53px 0px 0px;
 }
 
-.material-symbols-outlined {
+.achive-icon {
      color: rgb(76, 87, 118);
      padding-right: 23px;
      margin: 12px 0px 0px 0px;
+}
+
+.icon{
+     display: flex;
+     align-items: center;
+}
+.all-icon{
+     margin: 0;
+     color: #7c7c7c;
+     padding: 0;
 }
