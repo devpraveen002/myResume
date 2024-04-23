@@ -4,11 +4,15 @@
      color: white;
      margin: -21px -8px 0px -8px;
      font-family: "Roboto", sans-serif;
-     padding: 3px 50px 7px 78px;
+     padding: 3px 50px 7px 103px;
 }
-
+.all-icon{
+     color: white;
+}
 h1 {
      margin: 50px 0px 0px 0px;
+     font-size: 50px;
+     font-weight: 400;
 }
 
 h2 {
@@ -19,8 +23,9 @@ h2 {
 }
 
 h4 {
+     color: white;
      margin: 0;
      font-weight: 400;
      font-style: normal;
-     padding: 5px 20px 10px 0px;
+     padding: 5px 100px 10px 0px;
 }
